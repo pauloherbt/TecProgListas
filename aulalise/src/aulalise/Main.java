@@ -124,7 +124,7 @@ public class Main {
 //		System.out.println(agendamento.imprimir());
 //		Scanner sc= new Scanner(System.in);
 //		Balanco b1=carregarBalanco();
-//		System.out.println("Digite o nome do servico gratuito a ser buscado");
+//		System.out.println("Digite o nome do servico a ser buscado");
 //		System.out.println(b1.buscarServico(sc.nextLine()));
 		Agenda agenda=carregarAgenda();
 		procurarAgendamento(agenda);
